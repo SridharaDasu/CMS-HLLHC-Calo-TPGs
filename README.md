@@ -20,4 +20,4 @@ Data distribution plots
 python plot_crystal_et.py
 ```
 
-![plot](example_plot.py)
+![plot](example_plot.png)
