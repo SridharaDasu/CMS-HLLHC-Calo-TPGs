@@ -5,9 +5,9 @@ Installation:
 git clone https://github.com/SridharaDasu/CMS-HLLHC-Calo-TPGs.git
 cd CMS-HLLHC-Calo-TPGs
 virtualenv --python python3 venv
+source venv/bin/activate
 pip3 install --upgrade pip
 pip3 install -r requirements.txt
-source venv/bin/activate
 ```
 
 Data:
